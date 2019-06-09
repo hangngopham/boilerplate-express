@@ -13,7 +13,7 @@ console.log('Hello World');
 
 /** 2) A first working Express Server */
 app.get('/', function(req, res) {
- res.send('Hello World');
+ res.send('Hello Express');
 });
 
 /** 3) Serve an HTML file */
@@ -46,7 +46,7 @@ app.get('/', function(req, res) {
 // place it before all the routes !
 
 
-/** 12) Get data form POST  */
+/** 12) Get data form POST  */git
 
 
 
